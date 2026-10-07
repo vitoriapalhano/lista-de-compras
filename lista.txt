@@ -1,8 +1,7 @@
 preciso comprar:
 
-maçã
-banana
-abacaxi
-manga
+MAÇÃ
+ABACAXI
+MANGA
 
 essa é a minha lista de compras
